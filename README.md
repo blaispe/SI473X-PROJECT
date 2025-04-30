@@ -2,6 +2,8 @@ STL files (3d printing)  for board v24.1.2_b by PU2CLR-IU4ALH-ASSUNCAO
 
 Please note! 
 The display used is a 2.8 inch ILI9341
+
+
 POWER SUPPLY
 Since the USB input only deals with power and is therefore not related to the programming of the ESP32 (which must be programmed separately) you can add an external connector that can be soldered directly on the tracks of the USB port (DC 5V)
 Like these ones
